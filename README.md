@@ -143,3 +143,12 @@ MIT License — feel free to use and adapt for education and authorized testing.
 
 ---
 
+## Disclaimer & Responsible Use
+
+This project is provided **for educational purposes and authorized security testing only**. The author and contributors **are not responsible** for any misuse, damage, data loss, legal claims, or other consequences arising from using or modifying this software.
+
+By using this code you agree that:
+- You will only use it on systems you own or where you have **explicit, written permission** to test.
+- You accept full responsibility for your actions and any legal or ethical consequences.
+- The software is provided **"as is"**, without warranties of any kind; the author disclaims all liability to the fullest extent permitted by law.
+
